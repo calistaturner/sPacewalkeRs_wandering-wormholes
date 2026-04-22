@@ -3,12 +3,9 @@
 # Generates three figures for the manuscript
 
 import json
-import csv
 import datetime as dt
 import matplotlib.pyplot as plt
-import matplotlib
 import pandas as pd
-import numpy as np
 
 # Load data
 output_dir = 'results/figures/'
