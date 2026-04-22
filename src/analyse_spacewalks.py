@@ -11,7 +11,7 @@ import pandas as pd
 import numpy as np
 
 # Load data
-output_dir = '/home/sarah/Projects/spacewalk-analysis/results/figures/'
+output_dir = 'results/figures/'
 
 data_f = open('data/data.json', 'r')
 raw = json.load(data_f)
