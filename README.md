@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/%E2%9C%A8)
 [![DOI](https://sandbox.zenodo.org/badge/1217593611.svg)](https://handle.test.datacite.org/10.5072/zenodo.491771)
 ![GitHub License](https://img.shields.io/github/license/https%3A%2F%2Fgithub.com%2Fcalistaturner/https%3A%2F%2Fgithub.com%2Fcalistaturner%2FsPacewalkeRs_wandering-wormholes)
-![GitHub]([https://img.shields.io/github/license/https%3A%2F%2Fgithub.com%2Fcalistaturner/https%3A%2F%2Fgithub.com%2Fcalistaturner%2FsPacewalkeRs_wandering-wormholes](https://img.shields.io/badge/github-repo-blue?logo=github))
+![GitHub Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fgithub-repo-blue%3Flogo%3Dgithub)
 
 # NASA Spacewalk Analysis — Reproducible Manuscript
 
