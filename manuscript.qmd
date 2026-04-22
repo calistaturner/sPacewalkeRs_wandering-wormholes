@@ -1,5 +1,5 @@
 ---
-title: "Six Decades of Human Spaceflight: A Quantitative Analysis of Extravehicular Activity Conducted by NASA and Roscosmos"
+title: "Four Decades of Human Spaceflight: A Quantitative Analysis of Extravehicular Activity Conducted by NASA and Roscosmos"
 author:
   - name: "Dr Elena Vasquez"
     affiliation: "Department of Aerospace Science, University of Melbourne"
