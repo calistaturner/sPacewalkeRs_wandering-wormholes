@@ -1,4 +1,5 @@
 [![DOI](https://sandbox.zenodo.org/badge/1217593611.svg)](https://handle.test.datacite.org/10.5072/zenodo.491771)
+![GitHub License](https://img.shields.io/github/license/https%3A%2F%2Fgithub.com%2Fcalistaturner/https%3A%2F%2Fgithub.com%2Fcalistaturner%2FsPacewalkeRs_wandering-wormholes)
 
 # NASA Spacewalk Analysis — Reproducible Manuscript
 
