@@ -6,7 +6,7 @@ title: NASA Spacewalk Analysis — Reproducible Manuscript
 message: >-
   If you use this dataset, please cite it using the metadata
   from this file.
-type: dataset
+type: software
 authors:
   - given-names: Calista Lee
     family-names: Turner
